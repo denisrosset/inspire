@@ -1,2 +1,2 @@
-# inspire
+# inSpire
 Next generation numerics for Scala
